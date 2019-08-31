@@ -16,11 +16,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('https://jsonplaceholder.typicode.com/users', {
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      })
+    fetch('https://jsonplaceholder.typicode.com/users')
       .then(response => response.json())
       .then(users => this.setState({monsters: users}));
   }
