@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdbb84f8fb2c5930af18fc2f0081d95c",
+    "revision": "db15f5ae6103224feebacf62db461f91",
     "url": "/monsters-rawr/index.html"
   },
   {
-    "revision": "e8aa60173191e7bab816",
+    "revision": "11653b7aab20bfb9e0ec",
     "url": "/monsters-rawr/static/css/main.40942bbe.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsters-rawr/static/js/2.3adefb50.chunk.js"
   },
   {
-    "revision": "e8aa60173191e7bab816",
-    "url": "/monsters-rawr/static/js/main.fe4b0170.chunk.js"
+    "revision": "11653b7aab20bfb9e0ec",
+    "url": "/monsters-rawr/static/js/main.d6ffa5e0.chunk.js"
   },
   {
     "revision": "b410ccf74197512015bf",
